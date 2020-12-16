@@ -28,3 +28,14 @@ File: `watson-nlu.json`
   "url": "https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/b774813c-bdb6-453a-adb0-233c770e0312"
 }
 ```
+
+### Google Search
+
+File: `algorithmia.json`
+
+```json
+{
+  "apiKey": "AIzaSyBrIYUU1nKqGSAIV2TyruF8UB4Pu3_8ZI0",
+  "searchEngineId": "0c54297a4427287d5"
+}
+```
